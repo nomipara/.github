@@ -6,7 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/70263039/203595934-8e71f046-2a0f-41c1-82a6-d5b46838ea66.png" width="500px">
 
-![のみぱら]()
 
 
 
